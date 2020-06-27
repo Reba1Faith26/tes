@@ -1,0 +1,188 @@
+.navigation{
+    position:absolute;
+    left:0;
+    right:0;
+    top:0;
+    height:60px;
+    background-color:black;
+    border-bottom:solid 2px black;
+}
+.fnvaCaption{
+    color:#FFC107;
+    font-family:arial;
+    font-size:30px;
+    margin-top:0px;
+    margin-left:0px;
+}
+.academy{
+    color:#ffffff;
+    font-family:arial;
+    margin-top:-20px;
+}
+.menu{
+    background-image:url('menu.png');
+    height:40px;
+    background-size:40px;
+    background-position-y:-0px;
+    width:40px;
+    position:absolute;
+    right:20;
+    top:12;
+    background-repeat:no-repeat;
+}
+.menuContent{
+    background-color:#000000f7;
+    position:absolute;
+    left:0;
+    right:0;
+    top:36;
+    line-height:47px;
+    color:white;
+    list-style:none;
+    height:200px;
+    font-weight:bolder;
+    font-size:25px;
+    font-family:arial;
+    display:none;
+}
+ul li{
+    margin-left:80px;
+}
+ul li a{
+    color:white;
+    text-decoration:none;
+}
+.welcome{
+    height:100px;
+    background-color:#1976D2;
+    position:absolute;
+    left:0;
+    right:0;
+    top:60;
+    color:white;
+    font-weight:bolder;
+    font-family:arial;
+    text-align:Center;
+    font-size:20px;
+}
+.welcomeCaption{
+    margin-top:6px;
+}
+.improve{
+    background-color:#F5F5F5;
+    margin:164px -4px 0px -4px;
+    height:200px;
+    text-align:center;
+    font-weight:bolder;
+    font-family:arial;
+    font-size:25px;
+    position:initial;
+}
+.improveCaption{
+    margin-top:-20px;
+}
+.letCaption{
+    margin-top:30px;
+}
+.improveimg{
+    margin-top:-47px;
+}
+.subjects{
+    position:absolute;
+    top:370;
+    left:0px;
+    right:0;
+    background-color:#ffffff;
+    height:300px;
+}
+.subjectCaption{
+    font-family:arial;
+    text-align:center;
+    font-size:24px;
+}
+.math{
+    height:130px;
+    width:120px;
+    position:absolute;
+    background-repeat:no-repeat;
+    background-size:130px;
+    background-image:url('maths.png');
+    position:absolute;
+    left:130;
+}
+.physics{
+    height:130px;
+    width:120px;
+    position:absolute;
+    top:250;
+    left:130;
+    background-repeat:no-repeat;
+    background-size:130px;
+    background-image:url('physics.png');
+}
+.physicsCaption{
+    font-family:arial;
+    font-weight:bolder;
+    left:130px;
+    position:absolute;
+    top:370;
+}
+.mathCaption{
+    font-family:arial;
+    font-weight:bolder;
+    margin-left:22px;
+    position:absolute;
+    top:210;
+    left:130;
+}
+.lifescience{
+    position:absolute;
+    top:410px;
+    left:130;
+    height:130px;
+    width:120px;
+    background-image:url('lifescience.png');
+}
+.lifescienceCaption{
+    position:absolute;
+    font-family:arial;
+    font-weight:bolder;
+    top:530;
+    left:130;
+}
+.social{
+    position:absolute;
+    height:200px;
+    background-color:black;
+    top:960px;
+    left:0;
+    right:0;
+}
+.app{
+    margin-top:0px;
+    margin-left:10px;
+}
+.app,.fb,.insta{
+    height:50px;
+    margin-left:50px;
+}
+.follow{
+    margin-top:10px;
+    text-align:center;
+    font-family:arial;
+    font-weight:bolder;
+    font-size:23px;
+    color:white;
+}
+.copyright{
+    height:60px;
+    line-height:60px;
+    text-align:center;
+    background-color:#546E7A;
+}
+.copyCaption{
+    color:white;
+    font-weight:bolder;
+    font-family:arial;
+    font-size:17px;
+}
